@@ -1,36 +1,49 @@
 # Strategic-Refresh
 
 ## Table of Contents
-
-+ [Executive Summary](#executive-summary)
-+ [Introduction](#introduction)
-+ [Part I: Strategic Refresh Feedback on the 2020 Community Imperatives](#part-i-strategic-refresh-feedback-on-the-2020-community-imperatives)
-     + [Interoperability and Alignment](#interoperability-and-alignment)
-     + [Implementation Support](#implementation-support)
-     + [Clinical Engagement](#clinical-engagement)
-     + [Responding to the Feedback](#responding-to-the-feedback)
-+ [Part II: Updates to What We Do](#part-ii-updates-to-what-we-do)
-     + [Study Groups](#study-groups)
-     + [Work Streams](#work-streams)
-     + [Implementation Forum](#implementation-forum)
-+ [Part III: Updates to Our Community](#part-iii-updates-to-our-community)
-     + [Driver Projects](#driver-projects)
-     + [Strategic Partners](#strategic-partners)
-     + [Organisational Members](#organisational-members)
-     + [Individual Contributors](#individual-contributors)
-     + [Assigned Experts](#assigned-experts)
-+ [Part IV: Strategies for achieving our vision](#part-iv-strategies-for-achieving-our-vision)
-     + [GA4GH Secretariat](#ga4gh-secretariat)
-     + [Representation and Inclusion](#representation-and-inclusion)
-     + [Community Alignment](#community-alignment)
-          + [National Initiatives Forum](#national-initiatives-forum)
-          + [Communities of Interest](#communities-of-interest)
-          + [Alignment with Other Standards Development Organisations](#alignment-with-other-standards-development-organisations)
-          + [Global Policy Forum](#global-policy-forum)
-     + [Annual Meetings](#annual-meetings)
-+ [Appendix I: Summary of Past Strategic Planning](#appendix-i-summary-of-past-strategic-planning)
-+ [Appendix II: How this proposal will impact the Community Imperatives](#appendix-ii-how-this-proposal-will-impact-the-community-imperatives)
-+ [Appendix III: Attribution](#appendix-iii-attribution)
+<details>
+<summary>Expand</summary>
+<br>
+<ul>
+<li> <a href=#executive-summary>Executive Summary</a> </li>
+<li> <a href=#introduction>Introduction</a> </li>
+<li> <a href=#part-i-strategic-refresh-feedback-on-the-2020-community-imperatives>Part I: Strategic Refresh Feedback on the 2020 Community Imperatives</a> </li>
+<ul><li> <a href=#interoperability-and-alignment>Interoperability and Alignment</a> </li>
+<li> <a href=#implementation-support>Implementation Support</a> </li>
+<li> <a href=#clinical-engagement>Clinical Engagement</a> </li>
+<li> <a href=#responding-to-the-feedback>Responding to the Feedback</a> </li>
+</ul>
+<li> <a href=#part-ii-updates-to-what-we-do>Part II: Updates to What We Do</a> </li>
+<ul>
+<li> <a href=#study-groups>Study Groups</a> </li>
+<li> <a href=#work-streams>Work Streams</a> </li>
+<li> <a href=#implementation-forum>Implementation Forum</a> </li>
+</ul>
+<li> <a href=#part-iii-updates-to-our-community>Part III: Updates to Our Community</a> </li>
+<ul><li> <a href=#driver-projects>Driver Projects</a> </li>
+<li> <a href=#strategic-partners>Strategic Partners</a> </li>
+<li> <a href=#organisational-members>Organisational Members</a> </li>
+<li> <a href=#individual-contributors>Individual Contributors</a> </li>
+<li> <a href=#assigned-experts>Assigned Experts</a> </li>
+</ul>
+<li> <a href=#part-iv-strategies-for-achieving-our-vision>Part IV: Strategies for achieving our vision</a> </li>
+<ul>
+<li> <a href=#ga4gh-secretariat>GA4GH Secretariat</a> </li>
+<li> <a href=#representation-and-inclusion>Representation and Inclusion</a> </li>
+<li> <a href=#community-alignment>Community Alignment</a> </li>
+<ul>
+<li> <a href=#national-initiatives-forum>National Initiatives Forum</a> </li>
+<li> <a href=#communities-of-interest>Communities of Interest</a> </li>
+<li> <a href=#alignment-with-other-standards-development-organisations>Alignment with Other Standards Development Organisations</a> </li>
+<li> <a href=#global-policy-forum>Global Policy Forum</a> </li>
+</ul>
+<li> <a href=#annual-meetings>Annual Meetings</a> </li>
+</ul>
+<li> <a href=#appendix-i-summary-of-past-strategic-planning>Appendix I: Summary of Past Strategic Planning</a> </li>
+<li> <a href=#appendix-ii-how-this-proposal-will-impact-the-community-imperatives>Appendix II: How this proposal will impact the Community Imperatives</a> </li>
+<li> <a href=#appendix-iii-attribution>Appendix III: Attribution</a> </li>
+</ul>
+</details>
 
 
 ## Executive Summary
