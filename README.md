@@ -45,54 +45,6 @@
 </ul>
 </details>
 
-
-# Strategic-Refresh
-
-## Table of Contents
-<details>
-<summary>Expand</summary>
-<br>
-<ul>
-<li> <a href=#executive-summary>Executive Summary</a> </li>
-<li> <a href=#introduction>Introduction</a> </li>
-<li> <a href=#part-i-strategic-refresh-feedback-on-the-2020-community-imperatives>Part I: Strategic Refresh Feedback on the 2020 Community Imperatives</a> </li>
-<ul><li> <a href=#interoperability-and-alignment>Interoperability and Alignment</a> </li>
-<li> <a href=#implementation-support>Implementation Support</a> </li>
-<li> <a href=#clinical-engagement>Clinical Engagement</a> </li>
-<li> <a href=#responding-to-the-feedback>Responding to the Feedback</a> </li>
-</ul>
-<li> <a href=#part-ii-updates-to-what-we-do>Part II: Updates to What We Do</a> </li>
-<ul>
-<li> <a href=#study-groups>Study Groups</a> </li>
-<li> <a href=#work-streams>Work Streams</a> </li>
-<li> <a href=#implementation-forum>Implementation Forum</a> </li>
-</ul>
-<li> <a href=#part-iii-updates-to-our-community>Part III: Updates to Our Community</a> </li>
-<ul><li> <a href=#driver-projects>Driver Projects</a> </li>
-<li> <a href=#strategic-partners>Strategic Partners</a> </li>
-<li> <a href=#organisational-members>Organisational Members</a> </li>
-<li> <a href=#individual-contributors>Individual Contributors</a> </li>
-<li> <a href=#assigned-experts>Assigned Experts</a> </li>
-</ul>
-<li> <a href=#part-iv-strategies-for-achieving-our-vision>Part IV: Strategies for achieving our vision</a> </li>
-<ul>
-<li> <a href=#ga4gh-secretariat>GA4GH Secretariat</a> </li>
-<li> <a href=#representation-and-inclusion>Representation and Inclusion</a> </li>
-<li> <a href=#community-alignment>Community Alignment</a> </li>
-<ul>
-<li> <a href=#national-initiatives-forum>National Initiatives Forum</a> </li>
-<li> <a href=#communities-of-interest>Communities of Interest</a> </li>
-<li> <a href=#alignment-with-other-standards-development-organisations>Alignment with Other Standards Development Organisations</a> </li>
-<li> <a href=#global-policy-forum>Global Policy Forum</a> </li>
-</ul>
-<li> <a href=#annual-meetings>Annual Meetings</a> </li>
-</ul>
-<li> <a href=#appendix-i-summary-of-past-strategic-planning>Appendix I: Summary of Past Strategic Planning</a> </li>
-<li> <a href=#appendix-ii-how-this-proposal-will-impact-the-community-imperatives>Appendix II: How this proposal will impact the Community Imperatives</a> </li>
-<li> <a href=#appendix-iii-attribution>Appendix III: Attribution</a> </li>
-</ul>
-</details>
-
 ## Executive Summary
 
 In 2022, through a series of open-brainstorming sessions chaired by members of the GA4GH executive committee, as well as a written survey, GA4GH solicited more than 300 pieces of feedback from more than 120 individual stakeholders on our current and future ability to achieve the three community imperatives identified during the [2020 Gap Analysis](#gap-analysis-2020): improve interoperability and alignment with external standards and between GA4GH products, improve implementation support for technical standards, and engage more closely with healthcare and clinical standards. The most recurrent themes among the [strategic refresh feedback](#part-i-strategic-refresh-feedback-on-the-2020-community-imperatives) were recommendations to (i) create a forum for sharing experiences implementing GA4GH standards and mechanisms for implementers to demonstrate usage of GA4GH standards, (ii) work with collaborative projects to identify & advance use cases, and (iii) ensure clinical relevance of GA4GH toolkit before promoting to the clinical community. 
